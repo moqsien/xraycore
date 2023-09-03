@@ -1,5 +1,10 @@
 # Project X
 
+## Notice
+**This is a fork from [xray-core](https://github.com/moqsien/Xray-core) which is independently maintained for Neobox with later versions of wiregaurd-go adopted.**
+**本项目仅仅是xray-core项目的一个独立fork，主要用于引入较新版的wireguard-go，以便在Neobox中同时使用xray-core和最新的sing-box。**
+**Thanks to the xray-core developers/maintainers.**
+
 [Project X](https://github.com/XTLS) originates from XTLS protocol, providing a set of network tools such as [Xray-core](https://github.com/XTLS/Xray-core) and [REALITY](https://github.com/XTLS/REALITY).
 
 [README](https://github.com/XTLS/Xray-core#readme) is open, so feel free to submit your project [here](https://github.com/XTLS/Xray-core/pulls).
